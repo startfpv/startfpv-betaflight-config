@@ -53,3 +53,4 @@ dkms.conf
 
 # OSX
 .DS_Store
+.ssh/
